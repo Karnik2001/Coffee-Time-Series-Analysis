@@ -41,11 +41,11 @@ Exploratory Data Analysis (EDA)
 
 Stationarity Testing
 
-0 Conducted Augmented Dickey-Fuller (ADF) tests to assess stationarity.
+- Conducted Augmented Dickey-Fuller (ADF) tests to assess stationarity.
 
 Seasonal Decomposition
 
-0 Used additive/multiplicative decomposition to separate trend, seasonality, and residuals.
+- Used additive/multiplicative decomposition to separate trend, seasonality, and residuals.
 
 Forecasting Models
 

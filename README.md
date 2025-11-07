@@ -31,33 +31,33 @@ Matplotlib / Seaborn — data visualization
 
 Data Preparation
 
-Collected and cleaned global coffee export data.
+- Collected and cleaned global coffee export data.
 
-Transformed data into a time series format suitable for analysis.
+- Transformed data into a time series format suitable for analysis.
 
 Exploratory Data Analysis (EDA)
 
-Visualized trends, seasonality, and patterns in export data.
+- Visualized trends, seasonality, and patterns in export data.
 
 Stationarity Testing
 
-Conducted Augmented Dickey-Fuller (ADF) tests to assess stationarity.
+0 Conducted Augmented Dickey-Fuller (ADF) tests to assess stationarity.
 
 Seasonal Decomposition
 
-Used additive/multiplicative decomposition to separate trend, seasonality, and residuals.
+0 Used additive/multiplicative decomposition to separate trend, seasonality, and residuals.
 
 Forecasting Models
 
-Applied ARIMA and AR models for forecasting.
+- Applied ARIMA and AR models for forecasting.
 
-Tuned model parameters and validated predictions with historical data.
+- Tuned model parameters and validated predictions with historical data.
 
 Results & Insights
 
-Identified distinct seasonal cycles in coffee export demand.
+- Identified distinct seasonal cycles in coffee export demand.
 
-Produced reliable short-term forecasts for decision-making support.
+- Produced reliable short-term forecasts for decision-making support.
 
 ## 📈 Results
 
@@ -74,3 +74,9 @@ Incorporate exogenous factors (e.g., global prices, weather conditions).
 Compare with machine learning models like Prophet, LSTM, or XGBoost.
 
 Extend analysis to other commodities for cross-market insights.
+
+## Citations
+
+https://www.geeksforgeeks.org/data-analysis/time-series-data-visualization-in-python/
+
+https://coderivers.org/blog/python-for-time-series-analysis/
